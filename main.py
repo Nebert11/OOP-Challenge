@@ -1,9 +1,9 @@
 from pet import Pet
 
-# Create pet object
+#Pet object
 my_pet = Pet("skupidu", 5, 5, 5, [])
 
-# Test methods
+# Methods
 my_pet.get_status()
 my_pet.eat()
 my_pet.sleep()
