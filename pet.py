@@ -1,3 +1,4 @@
+# Pet Class
 class Pet:
     def __init__ (self, name, hunger, energy, happiness, tricks):
         self.name = 5
